@@ -1,0 +1,3 @@
+accuracy : 71%
+epochs : 10
+size : 32x32px
